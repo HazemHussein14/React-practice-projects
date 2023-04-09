@@ -1,0 +1,22 @@
+.person {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  gap: 10px;
+}
+
+.img {
+  width: 64px;
+  border-radius: 50%;
+} 
+
+.name {
+  font-size: 22px;
+  margin: 0 0 5px 0;
+}
+
+.age {
+  margin: 0;
+  color: #64749a;
+  font-size: 16px;
+}
