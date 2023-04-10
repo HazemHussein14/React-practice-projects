@@ -1,0 +1,37 @@
+.question {
+  padding: 12px;
+  border: 2px solid #eee;
+  border-radius: 4px;
+  box-shadow: 2px 4px 8px rgba(126, 124, 124, 0.343);
+  margin-bottom: 20px;
+}
+
+.question div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.question .content {
+  font-size: 20px;
+  color: #334155;
+}
+
+.question .btn {
+  cursor: pointer;
+  background-color: #164e63;
+  color: #fff;
+  font-size: 20px;
+  padding: 4px;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.question .answer {
+  font-size: 16px;
+  line-height: 2;
+  color: #164e63;
+}
